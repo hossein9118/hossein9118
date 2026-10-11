@@ -19,7 +19,9 @@ I work where marketing meets engineering — turning growth ideas into automated
 
 ## Featured projects
 
-> Coming soon — I'm documenting and open-sourcing my work here, one project at a time.
+- 🔎 **[Persian Keyword Research & SERP Clustering](https://github.com/hossein9118/keyword-research)** — Python pipeline that expands a Persian seed keyword into hundreds of long-tail terms, clusters them by Google SERP overlap, and outputs a ready-to-write content plan
+
+**Coming soon:**
 
 - **n8n growth workflows** — B2B lead generation and content automation
 - **YSQ interpretation tool** — RAG-based schema-therapy questionnaire interpreter built on n8n
